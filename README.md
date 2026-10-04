@@ -1,5 +1,5 @@
 # CHATAI
-CHATAI a chatbot
+CHATAI  is a chatbot
 founder-SHREYANSH GANESH KARMI
 use it from- chatai.shreyanshganeshkarmi.py
 python should be installed in mobile/desktop/laptop
